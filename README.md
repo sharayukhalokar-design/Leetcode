@@ -24,6 +24,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -49,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
