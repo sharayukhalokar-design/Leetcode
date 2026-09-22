@@ -26,6 +26,7 @@
 | [0075-sort-colors](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
