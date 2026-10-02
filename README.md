@@ -31,6 +31,7 @@
 | [0704-binary-search](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
+| [1470-shuffle-the-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1470-shuffle-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
