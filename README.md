@@ -32,6 +32,7 @@
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Quicksort
 |  |
 | ------- |
