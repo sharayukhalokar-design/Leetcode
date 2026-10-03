@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1025-divisor-game) |
 | [2485-find-the-pivot-integer](https://github.com/sharayukhalokar-design/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3870-count-commas-in-range](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/sharayukhalokar-design/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
