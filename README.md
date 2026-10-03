@@ -12,6 +12,7 @@
 | [0009-palindrome-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1025-divisor-game) |
+| [2485-find-the-pivot-integer](https://github.com/sharayukhalokar-design/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3870-count-commas-in-range](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0125-valid-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/sharayukhalokar-design/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
