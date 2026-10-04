@@ -32,6 +32,7 @@
 | [0136-single-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
@@ -50,6 +51,7 @@
 | [0075-sort-colors](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Quicksort
@@ -120,10 +122,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
