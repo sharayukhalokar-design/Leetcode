@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -139,6 +140,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0344-reverse-string) |
 ## Prefix Sum
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
