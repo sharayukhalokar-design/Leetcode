@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0002-add-two-numbers](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -56,6 +58,7 @@
 | [0088-merge-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sorting
@@ -199,4 +202,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
