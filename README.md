@@ -13,6 +13,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
@@ -28,6 +29,7 @@
 | [0002-add-two-numbers](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
