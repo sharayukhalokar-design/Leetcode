@@ -170,6 +170,7 @@
 | [0344-reverse-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
