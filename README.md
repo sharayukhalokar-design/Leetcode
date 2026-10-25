@@ -14,6 +14,7 @@
 | [0002-add-two-numbers](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0060-permutation-sequence) |
+| [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0877-stone-game) |
@@ -43,6 +44,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
@@ -71,6 +73,7 @@
 | [0088-merge-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -147,12 +151,14 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
