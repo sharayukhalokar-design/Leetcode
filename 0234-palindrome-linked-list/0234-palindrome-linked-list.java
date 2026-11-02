@@ -3,15 +3,16 @@ class Solution {
 
     public boolean isPalindrome(ListNode head) {
         front = head;
-        return check(head);
+        return checkPalindrome(head);
     }
 
-    private boolean check(ListNode current) {
+    public boolean checkPalindrome(ListNode current) {
+
         if (current == null) {
             return true;
         }
 
-        if (!check(current.next)) {
+        if (!checkPalindrome(current.next)) {
             return false;
         }
 
@@ -20,6 +21,7 @@ class Solution {
         }
 
         front = front.next;
+
         return true;
     }
 }
