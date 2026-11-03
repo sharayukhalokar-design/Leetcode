@@ -21,6 +21,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1025-divisor-game) |
 | [2485-find-the-pivot-integer](https://github.com/sharayukhalokar-design/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -54,6 +55,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
