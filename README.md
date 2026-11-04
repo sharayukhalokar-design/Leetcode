@@ -57,6 +57,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -152,6 +153,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sharayukhalokar-design/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
