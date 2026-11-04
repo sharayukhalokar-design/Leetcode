@@ -46,6 +46,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
