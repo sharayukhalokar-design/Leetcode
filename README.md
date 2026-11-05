@@ -48,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
@@ -70,6 +71,7 @@
 | [0125-valid-palindrome](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sorting
