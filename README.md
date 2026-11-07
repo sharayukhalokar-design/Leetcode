@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -174,6 +175,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0645-set-mismatch) |
@@ -190,6 +192,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharayukhalokar-design/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sharayukhalokar-design/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
